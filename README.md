@@ -6,5 +6,6 @@
 [Link](https://github.com/liballeg/allegro_wiki/wiki/Quickstart)
 ### Run
 `gcc -Wall -o main  main.c tela.c -lallegro_font -lallegro_color -lallegro_ttf -lallegro_primitives -lallegro`
-### Game Images
+# Game Images
 ![Game screen](images/screen.jpeg)
+![Ranking](images/ranking.png)
