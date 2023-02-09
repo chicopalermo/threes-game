@@ -5,4 +5,6 @@
 ### Download Allegro
 [Link](https://github.com/liballeg/allegro_wiki/wiki/Quickstart)
 ### Run
-gcc -Wall -o main  main.c tela.c -lallegro_font -lallegro_color -lallegro_ttf -lallegro_primitives -lallegro
+`gcc -Wall -o main  main.c tela.c -lallegro_font -lallegro_color -lallegro_ttf -lallegro_primitives -lallegro`
+### Game Images
+![Game screen](https://drive.google.com/file/d/1_BFtvXowVphTdwbf6krswKDEY38rgT88/view?usp=share_link)
